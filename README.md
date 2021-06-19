@@ -1,0 +1,1 @@
+Augmented Wordshoal function that stores word loadings (paper)[http://benjaminlauderdale.net/publications/measuring-political-positions-from-legislative-speech/] and tunes the prior parameters of the Bayesian Aggregatin step.
